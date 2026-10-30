@@ -1,0 +1,1 @@
+ALTER TABLE public.contracts ALTER COLUMN client_email DROP NOT NULL;

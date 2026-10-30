@@ -1,0 +1,1 @@
+DELETE FROM public.contracts WHERE client_email = 'qa@example.com';
